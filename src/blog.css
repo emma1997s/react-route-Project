@@ -1,0 +1,23 @@
+.blogs {
+  display: block;
+  width: 95%;
+  margin: 1rem auto;
+  background-color: #fff;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.blogs h1 {
+  color: green;
+  padding: 0.7rem 0;
+}
+
+.blogs h5,
+p{
+  padding: 0.7rem 0;
+}
+
+.blogs p {
+  text-decoration: underline;
+}

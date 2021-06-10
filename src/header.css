@@ -1,0 +1,28 @@
+.nav_bar {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  z-index: 100px;
+}
+
+.nav_bar li {
+  list-style-type: none;
+  padding: 1rem;
+}
+
+.nav_bar li a {
+  text-decoration: none;
+  color: #030303;
+}
+
+.header_container {
+  border-bottom: 1px solid red;
+}
+
+.nav_bar li a:visited {
+  color: red;
+}
+
+.nav_bar li a:focus {
+  color: #030303;
+}
